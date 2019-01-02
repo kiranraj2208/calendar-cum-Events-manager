@@ -5,13 +5,13 @@ Please enter the date in year, month, day format only
 
 *This program always keep the record in sorted order and aso displays in sorted order
 
-*We can perform various operations on calendar like searching a month-wise calendar, day-wise calendar
+*We can perform various operations on calendar such as searching a month-wise calendar, day-wise calendar
   creating events, deleting events
 
 *There is menu() function that performs almost all operations that can be performed on calendar which has 
-  choices of operations, such that selecting choices performs particular operations
+  choices of operations, such that selecting paticular choices performs particular operations
 
-*menu() function runs infinitely and can be terminated only by the choice which has exit option.
+*menu() function runs infinitely and should be terminated only by the choice which has exit option.
 
 *please exit by above option only
 
