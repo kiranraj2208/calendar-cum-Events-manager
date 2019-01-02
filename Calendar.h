@@ -243,6 +243,7 @@ void calendar::delete_event(int y = 0, int m = 0, int d = 0)
 			events.erase(it);
 			cout << "Events deleted\n";
 			flag = 1;
+			break;
 		}
 	}
 	if(flag == 0)
